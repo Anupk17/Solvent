@@ -9,5 +9,4 @@ build/
 .cache/
 cache/
 *.zip
-log.txt
 SESSION_LOG.md
